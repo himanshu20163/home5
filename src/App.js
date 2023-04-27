@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import Hootsuite from './Hootsuite/Hootsuite';
 
 function App() {
   return (
